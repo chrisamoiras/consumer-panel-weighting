@@ -1,0 +1,7 @@
+check,rows,pct_of_rows
+Exact duplicate rows,0,0.0
+Sales value = 0,18850,0.726
+Sales value < 0,0,0.0
+Quantity = 0,14466,0.557
+Product not in product table,0,0.0
+Duplicate household in demographics,0,0.0

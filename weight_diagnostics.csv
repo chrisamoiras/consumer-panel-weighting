@@ -1,0 +1,5 @@
+scenario,n,min_rel_w,max_rel_w,max/min,deff_kish,eff_sample_size,efficiency_pct
+unweighted,730,1.0,1.0,1.0,1.0,730,100.0
+rake only,730,0.22,9.36,43.1,2.02,361,49.5
+NR + rake,730,0.16,9.76,61.3,2.3,318,43.6
+"NR + rake, trimmed",730,0.24,5.21,21.5,2.13,342,46.9
